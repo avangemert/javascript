@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: Ubuntu, sans-serif;
+  font-family: Helvetica, sans-serif;
 }
 
 html,
@@ -98,7 +98,7 @@ select {
   padding: 20px;
   margin: 0;
   background: black;
-  background-image: url("../images/nasa.jpg");
+  background-image: url("../images/marvin-martian-wallpapers-26272-2078527.jpg");
   background-attachment: fixed;
   background-position: bottom center;
   background-size: cover;
